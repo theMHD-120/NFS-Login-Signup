@@ -1,0 +1,189 @@
+a 
+{
+    text-decoration: none;
+}
+
+body
+{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-image: url("Used picturies/NFSHEAT2.jpeg");
+}
+
+
+.head
+{
+    width: 100%;
+    height: 60px;
+    margin-left: -0.2%;
+    color: aliceblue;
+    border-radius: 30px;
+    background-color: rgb(24, 0, 34);
+    border: solid rgb(213, 155, 247) 2.5px;
+}
+.home
+{
+    width: 30.5px;
+    height: 30.5px;
+    cursor: pointer;
+    margin: 14px 0px 0px 1.7%;
+}
+.head_logo
+{
+    width: 130px;
+    height: 35px;
+    position: absolute;
+    margin: 12.8px 0px 0px 42.5%;
+}
+.menu
+{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    position: absolute;
+    margin: 14.4px 0px 0px 92.8%;
+}
+
+
+.signup_window
+{
+    width: 1000px;
+    height: 1000px;
+    opacity: 92.5%;
+    border-radius: 15%;
+    background-size: 60.5%;
+    background-position-x: 50%;
+    background-position-y: -32%;
+    background-repeat: no-repeat;
+    margin: 3.2% auto auto 23.3%;
+    background-image: url("Used picturies/logo.png");
+    background-color: rgb(24, 0, 34);
+    border: solid rgb(213, 155, 247) 3px;
+}
+.logo
+{
+    float: left;
+    width: 800px;
+    height: 200px;
+    opacity: 92.5%;
+    transition: 0.3s;
+    position: relative;
+    margin: 8% auto 8% 10.5%;
+}
+.logo:hover
+{
+    transition-duration: 0.6s;
+    transform: scale(1.03,1.03);
+}
+
+input
+{
+    width: 75%;
+    height: 6.6%;
+    opacity: 80%;
+    outline: none;
+    color: white;
+    transition: 0.3s;
+    font-weight: 550;
+    padding-left: 3%;
+    font-size: x-large;
+    border-radius: 25px;
+    margin: auto auto 2% 10.6%;
+    background-color: rgb(6, 0, 8);
+    border: solid rgb(213, 155, 247) 3px;
+}
+input:hover
+{
+    opacity: 100%;
+    box-shadow: inset 0 0 10px rgb(202, 2, 2);
+}
+.robot
+{
+    opacity: 60%;
+    font-size: 150%;
+    font-weight: 520;
+    color: rgb(219, 217, 217);
+    margin: -0.5% auto -2.329% 11.6%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#check
+{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    box-shadow: none;
+    margin: auto auto 1.5% 28%;
+}
+
+.Button
+{
+    width: 78%;
+    height: 6.6%;
+    opacity: 70%;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: x-large;
+    font-weight: bolder;
+    border-radius: 25px;
+    margin: auto auto 3% 10.95%;
+    background-color: rgb(1, 218, 218);
+    border: solid rgb(213, 155, 247) 2px;
+}
+.Button:hover
+{
+    opacity: 80%;
+    color: rgb(0, 48, 48);
+    box-shadow: inset 0 0 7px black;
+    border-color: rgb(252, 247, 255);
+    background-color: rgb(59, 255, 255);
+}
+.Button:active {
+    background-color:rgb(159, 251, 251);
+}
+
+.Log_in
+{
+    opacity: 60%;
+    font-size: 128%;
+    font-weight: 520;
+    color: rgb(219, 217, 217);
+    margin: -2% auto auto 11.6%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Click
+{
+    cursor: pointer;
+    color:rgb(1, 218, 218);
+}
+
+
+.footer
+{
+    margin: -1.8% auto auto 1%;
+}
+.des
+{
+    float: left;
+    transition: 0.2s;
+    color: rgb(219, 217, 217);
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0 0 15px red; /* horizontal vertical blur-radius color */
+}
+.des:hover
+{
+    background-color: rgba(0, 0, 0, 0.432);
+    box-shadow: 0 0 17px rgb(0, 0, 0);
+}
+.writer
+{
+    cursor: pointer;
+    color:rgb(1, 218, 218);
+}
+.EAlogo
+{
+    width: 72px;
+    height: 55px;
+    cursor: pointer;
+    margin-left: 87.5%;
+}
